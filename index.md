@@ -30,6 +30,7 @@ This test is **bold**
 This text is *italics*  
 This test is **bold**
 
+
 ```
 \begin{equation)
 a^2+b^2=c^2
